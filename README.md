@@ -6,7 +6,12 @@ Users connect through a firewall to internal services via a Windows 11 Jump box.
 
 ## Lab Sections
 
-# Network Topology (Physical and Logical)
+## Network Topology (Physical and Logical)
+This section documents the physical layout and logical segmentation of my home network, along with the VLANs, firewall, boundaries, and routing paths of my home lab.
+###Logical Topology
+
+###Physical Topology
+
 # pfSense Firewall and VLAN Segmentation
 # Windows 11 Jump Box
 # osTicket on Ubuntu
