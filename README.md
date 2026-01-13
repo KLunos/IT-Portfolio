@@ -11,7 +11,7 @@ This section documents the physical layout and logical segmentation of my home n
 ### Physical Topology
 ![Physical Topology](Physical-Topology.png)
 ### Logical Topology
-![Logical Topology](Logical-Topology.png)
+![Logical Topology](Logical Topology.png)
 # pfSense Firewall and VLAN Segmentation
 # Windows 11 Jump Box
 # osTicket on Ubuntu
