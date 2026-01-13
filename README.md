@@ -17,7 +17,7 @@ This section documents the physical layout and logical segmentation of my home n
 
 ![Logical Topology](Logical-Topology.png)
 
-*This shows the logical structure of my home network, highlighting traffic flow through my virtual lab. DHCP scopes and VLAN segmentation through pfSense, along with several servers all surveilled by security onion are documented. This showcases my example of securing, designing, and documenting enterprise level systems.*
+*This shows the logical structure of my home network, highlighting traffic flow through my virtual lab. DHCP scopes and VLAN segmentation through pfSense, along with several servers all surveilled by security onion are documented. This showcases my example of designing, securing, and documenting enterprise level systems.*
 
 # pfSense Firewall and VLAN Segmentation
 # Windows 11 Jump Box
