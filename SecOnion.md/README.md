@@ -6,19 +6,19 @@
 - Practice “SOC-style” workflows: triage → investigate → document findings
 
 ## Lab Context
-- **VM Name:** SO-01 (or your actual VM name)
+- **VM Name:** SEC-ONION-01
 - **OS:** Security Onion (Oracle Linux-based)
 - **Deployment Type:** Standalone (most common for home labs)
 - **Management Interface:** pfSense LAN (10.10.0.0/24)
 - **Mgmt IP:** 10.10.0.X
-- **Sensor Interface(s):** vSniffer / monitor NIC(s) (no IP)
+- **Sensor Interface(s):** vSniffer / monitor NIC(s)
 - **Traffic Source:** Port mirror/SPAN (virtual switch mirror) or TAP-style feed
 
 ## Data Sources / What It Sees
 - **Network telemetry:** Zeek
 - **IDS alerts:** Suricata
 - **Packet capture:** PCAP
-- **Logs/search:** Elastic/OpenSearch (depends on your SO version)
+- **Logs/search:** Elastic/OpenSearch
 - **Analyst UI:** SOC dashboards + Hunt/Query tools
 
 ## High-Level Build Steps (Skeleton)
@@ -30,7 +30,7 @@
 4. Assign mgmt IP + DNS/gateway (pfSense)
 5. Configure sensor interface(s) for monitoring (no IP)
 6. Confirm services healthy (SO status checks)
-7. Configure traffic mirroring in Hyper-V/vSwitch (if applicable)
+7. Configure traffic mirroring in Hyper-V/vSwitch
 8. Generate test traffic from Win11 Jump / other VM
 9. Validate: alerts/logs/PCAP visibility in the UI
 
@@ -48,7 +48,7 @@
 - HTTP download + PCAP follow-stream investigation
 - “SOC Note” style writeup: what happened + evidence + conclusion
 
-## Notes / Lessons Learned (Optional)
+## Notes / Lessons Learned (Coming soon)
 - Resource tuning (RAM/CPU/storage) and performance observations
 - Anything tricky about vSwitch mirroring / vSniffer NIC setup
 - What you’d improve next (more sensors, VLAN visibility, Sysmon/endpoint logs, etc.)
