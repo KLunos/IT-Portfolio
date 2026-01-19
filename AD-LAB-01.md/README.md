@@ -9,7 +9,7 @@
 ## Lab Context
 - **VM Name:** AD-LAB-01
 - **OS:** Windows Server 2022
-- **Role(s):** AD DS, DNS (DHCP optional if used)
+- **Role(s):** AD DS, DNS
 - **Domain:** LAB.LOCAL
 - **Network:** pfSense LAN (10.10.0.0/24)
 - **Static IP:** 10.10.0.X
@@ -20,18 +20,17 @@
 2. Set static IP + correct DNS settings
 3. Rename server to **AD-LAB-01**
 4. Install **Active Directory Domain Services**
-5. Promote to Domain Controller (create new forest)
+5. Promote to Domain Controller
 6. Install/verify **DNS**
-7. (Optional) Configure DHCP (or leave DHCP on pfSense)
-8. Create baseline OUs, users, and groups
-9. Join Win11 Jump box to domain
+7. Create baseline OUs, users, and groups
+8. Join Win11 Jump box to domain
 
-## Validation / Evidence (Screenshots Later)
+## Validation / Evidence (Screenshots coming soon!)
 - Server name + IP config
 - AD DS installed + DC promotion success
 - DNS console showing forward lookup zone
 - Domain Users/Computers or custom OU structure
 - Win11 Jump box successfully domain-joined
 
-## Notes / Lessons Learned (Coming soon)
+## Notes / Lessons Learned (Coming soon!)
 - DHCP vs DNS split decisions (pfSense vs AD)
