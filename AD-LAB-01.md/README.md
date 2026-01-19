@@ -8,9 +8,9 @@
 
 ## Lab Context
 - **VM Name:** AD-LAB-01
-- **OS:** Windows Server (version TBD)
+- **OS:** Windows Server 2022
 - **Role(s):** AD DS, DNS (DHCP optional if used)
-- **Domain:** LAB.LOCAL (or your chosen domain)
+- **Domain:** LAB.LOCAL
 - **Network:** pfSense LAN (10.10.0.0/24)
 - **Static IP:** 10.10.0.X
 - **DNS:** 127.0.0.1 (preferred) / 10.10.0.X (alternate)
@@ -32,8 +32,6 @@
 - DNS console showing forward lookup zone
 - Domain Users/Computers or custom OU structure
 - Win11 Jump box successfully domain-joined
-- (Optional) GPO example applied to a test user/computer
 
-## Notes / Lessons Learned (Optional)
+## Notes / Lessons Learned (Coming soon)
 - DHCP vs DNS split decisions (pfSense vs AD)
-- Anything you changed after first attempt
