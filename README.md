@@ -22,4 +22,4 @@ This section documents the physical layout and logical segmentation of my home n
 # [Windows 11 Jump Box](jumpbox.md)
 # [osTicket (Ubuntu Server)](osTicket.md)
 # [Active Directory](AD-LAB-01.md)
-# [Security Onion (SO-01)](SecOnion.md)
+# [Security Onion](SecOnion.md)
