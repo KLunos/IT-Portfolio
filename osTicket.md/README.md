@@ -3,11 +3,11 @@
 ## Purpose
 - Simulate real help desk ticket workflow in a home lab
 - Create tickets, manage SLAs, assign agents, and document resolution steps
-- Tie into AD users (optional) to show identity + support process together
+- Tie into AD users to show identity + support process together (advanced steps for later)
 
 ## Lab Context
-- **VM Name:** OSTICKET-01 (or your actual VM name)
-- **OS:** Ubuntu Server (version TBD)
+- **VM Name:** Ubuntu-osTicket
+- **OS:** Ubuntu Server 24.04.3 LTS (Noble Numbat)
 - **App:** osTicket (version TBD)
 - **Web Stack:** Apache/Nginx + PHP + MariaDB/MySQL (LAMP/LEMP)
 - **Network:** pfSense LAN (10.10.0.0/24)
@@ -26,9 +26,9 @@
 9. Create admin + agents + departments/teams
 10. Configure email piping/inbound (optional) + outbound SMTP (optional)
 
-## Validation / Evidence (Screenshots Later)
+## Validation / Evidence (Screenshots coming soon!)
 - System info / OS version + IP config
-- Web UI accessible from Win11 Jump (browser screenshot)
+- Web UI accessible from Win11 Jump (screenshot)
 - Admin panel showing:
   - Departments/Teams
   - Agents
@@ -39,7 +39,4 @@
   3. Update status/notes
   4. Resolve/close ticket
 
-## Notes / Lessons Learned (Optional)
-- Any install issues (PHP modules, permissions, database auth)
-- Decisions about DNS/FQDN and where it’s managed (AD vs pfSense)
-- What you’d improve next (email integration, LDAP/SSO, backups)
+## Lessons Learned (Coming soon!)
