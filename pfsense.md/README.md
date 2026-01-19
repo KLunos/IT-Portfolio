@@ -1,7 +1,7 @@
 # pfSense Firewall and VLAN Segmentation
 
 ## Purpose
-I built pfSense as the edge firewall and router for my home lab to practice real-world network segmentation, access control, and troubleshooting.
+I built pfSense as an edge firewall and router for my home lab to practice real-world network segmentation, access control, and troubleshooting.
 
 ## What I Built
 - WAN/LAN routing using pfSense as the gateway
@@ -16,21 +16,20 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 ## Key Configurations
 
 ### Interfaces
-- WAN:
-- LAN:
-- VLANs:
+- WAN:vExternal
+- LAN:vLabLAN
+- VLANs:10.10.0.0/24
 
 ### DHCP
-- Main LAN:
-- Guest/IoT:
+- Main LAN:10.10.0.120 - 10.10.0.199
+- Guest/IoT:N/A
 
 ### Firewall Rules (Summary)
 - Default deny between VLANs
 - Allow only required services
 - Management access from jump box only
 
-## Screenshots
-*(Coming next)*
+## Screenshots (Coming soon!)
 
 - [ ] pfSense dashboard
 - [ ] Interfaces
@@ -39,6 +38,4 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 - [ ] Firewall rules
 - [ ] Logs
 
-## Lessons Learned
-*(I will document decisions, mistakes, and fixes here.)*
-
+## Lessons Learned (Coming soon!)
