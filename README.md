@@ -9,7 +9,7 @@ Users connect through a firewall to internal services via a Windows 11 Jump box.
 ## Network Topology (Physical and Logical)
 This section documents the physical layout and logical segmentation of my home network, along with the VLANs, firewall, boundaries, and routing paths of my home lab.
 ### Physical Topology
-- [Physical Network Map](path/to/physical-map.png)
+- [Physical Network Map](Physical-Topology.png)
 
 *This diagram shows the actual physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides within the network. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
 
