@@ -20,6 +20,6 @@ This section documents the physical layout and logical segmentation of my home n
 
 # [pfSense Firewall and VLAN Segmentation](pfsense.md)
 # [Windows 11 Jump Box](jumpbox.md)
-# osTicket on Ubuntu
+# [osTicket (Ubuntu Server)](osTicket.md)
 # [Active Directory](AD-LAB-01.md)
 # Security Onion Monitoring
