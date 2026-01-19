@@ -1,4 +1,4 @@
-# Security Onion (SO-01)
+# Security Onion
 
 ## Purpose
 - Network Security Monitoring (NSM) + detection lab
