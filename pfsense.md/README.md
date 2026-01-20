@@ -29,13 +29,16 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 - Allow only required services
 - Management access from jump box only
 
-## Screenshots (Coming soon!)
+## Screenshots
 
-- [ ] pfSense dashboard
-- [ ] Interfaces
-- [ ] VLAN configuration
-- [ ] DHCP scopes
-- [ ] Firewall rules
-- [ ] Logs
+- [pfSense Web UI login (from Win11 Jump)](pfSense/pfSense-WebUI-Login-from-jump.png)
+- [pfSense console main menu](pfSense/pfSense-main-console.png)
+- [Jump box IP config (vExternal + vLabLAN)](pfSense/pfSense-Interfaces-vExternal-vLabLAN.png)
+
+### Console output (sanitized)
+- [ifconfig (page 1)](pfSense/pfSenseifconfig1.png)
+- [ifconfig (page 2)](pfSense/pfSenseifconfig2.png)
+- [netstat -rn (page 1)](pfSense/pfSensenetstat1.png)
+- [netstat -rn (page 2)](pfSense/pfSensenetstat2.png)
 
 ## Lessons Learned (Coming soon!)
