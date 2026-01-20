@@ -31,7 +31,7 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 
 ## Screenshots
 
-- [pfSense Web UI login (from Win11 Jump)](pfSense-WebUI-Login-from-jump.png)
+- [pfSense Web UI login (from Win11 Jump)](pfSense/pfSense-WebUI-Login-from-jump.png)
 - [pfSense console main menu](pfSense/pfSense-main-console.png)
 - [Jump box IP config (vExternal + vLabLAN)](pfSense/pfSense-Interfaces-vExternal-vLabLAN.png)
 
