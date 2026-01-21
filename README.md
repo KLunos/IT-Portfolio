@@ -31,7 +31,8 @@ This visually documents the physical layout and logical segmentation of my home 
 
 *This diagram shows the logical structure of my home network, highlighting traffic flow through my virtual lab. It documents DHCP scopes and VLAN segmentation via pfSense, and multiple lab servers all monitored by Security Onion. This demonstrates my ability to design, secure, and document enterprise style network environments.*
 
-# [pfSense (Firewall and VLAN Segmentation)](pfsense.md)
+# [pfSense](pfsense.md)
+  - My firewall setup and VLAN segmentation.
 # [Windows 11 Jump Box](jumpbox.md)
 # [osTicket (Ubuntu Server)](osTicket.md)
 # [Active Directory](AD-LAB-01.md)
