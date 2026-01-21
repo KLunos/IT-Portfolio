@@ -16,13 +16,13 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 ## Key Configurations
 
 ### Interfaces
-- WAN:vExternal
-- LAN:vLabLAN
-- VLANs:10.10.0.0/24
+- WAN: vExternal
+- LAN: vLabLAN
+- VLANs: 10.10.0.0/24
 
 ### DHCP
-- Main LAN:10.10.0.120 - 10.10.0.199
-- Guest/IoT:N/A
+- Main LAN: 10.10.0.120 - 10.10.0.199
+- Guest/IoT: N/A
 
 ### Firewall Rules (Summary)
 - Default deny between VLANs
@@ -52,4 +52,4 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 ## Lessons / Notes (coming soon)
 
 - [Too many checkpoints!](/pfSense/pfSense-too-many-checkpoints.png)
-- Early on during lab creation, I got carried away with checkpoints! Now, I keep 3 for each VM, max.
+  - Early on during lab creation, I got carried away with checkpoints! Now, I keep 3 for each VM, max.
