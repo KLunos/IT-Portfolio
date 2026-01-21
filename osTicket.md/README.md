@@ -10,7 +10,7 @@
 - **OS:** Ubuntu Server 24.04.3 LTS (Noble Numbat)
 - **App:** osTicket 
 - **Web Stack:** Apache/2.4.58 + PHP 8.4.17 CLI + MariaDB ver 15.1
-  - [As shown here](
+  - As shown in the version screenshot below
 - **Network:** pfSense LAN (10.10.0.0/24)
 - **Static IP:** 10.10.0.X
 
