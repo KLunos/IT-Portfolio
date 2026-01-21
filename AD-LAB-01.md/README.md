@@ -26,11 +26,11 @@
 8. Join Win11 Jump box to domain
 
 ## Screenshots
-- Server name + IP config
-- AD DS installed + DC promotion success
-- DNS console showing forward lookup zone
-- Domain Users/Computers or custom OU structure
-- Win11 Jump box successfully domain-joined
+- [Windows Server version]()
+- [Domain controller login]()
+- [Updates in progress]()
+- [Main server dashboard]()
+- [Active Directory - users/groups]()
 
 ## Notes / Lessons Learned
 - [server error status]()
