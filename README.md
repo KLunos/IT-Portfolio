@@ -33,7 +33,8 @@ This visually documents the physical layout and logical segmentation of my home 
 
 # [pfSense](pfsense.md)
   - My firewall setup and VLAN segmentation.
-# [Windows 11 Jump Box](jumpbox.md)
+# [Jump Box](jumpbox.md)
+  - Run on Windows 11 Pro, this is used for administration through the web interfaces of all four other VMs.
 # [osTicket (Ubuntu Server)](osTicket.md)
 # [Active Directory](AD-LAB-01.md)
 # [Security Onion](SecOnion.md)
