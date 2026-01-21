@@ -8,10 +8,10 @@ This portfolio describes the home lab I designed and built to strengthen my prac
 
 The general idea is to simulate an environment where users connect through a firewall to internal services via a Windows 11 Jump box. This jump box provides access to an Ubuntu Apache server running osTicket, a Windows server running an Active Directory domain, and a full Security Onion monitoring stack. Each component was installed, configured, troubleshot, and documented by me.
 
-  ###Hardware
+### Hardware
 Laptop: Lenovo ThinkPad, Win11 Pro, Ryzen 7 7735HS, 64 GB RAM, 1 TB SSD
 
-  ###Software
+### Software
 The host runs on Windows 11 Pro. The virtual machines are run in Hyper-V and are comprised of: pfSense, Windows 11 Pro, Windows Server 2022, Ubuntu 24.04.3 LTS, Security Onion 2.4.200,
 
 ## Network Topology (Physical and Logical)
