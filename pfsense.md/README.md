@@ -41,12 +41,12 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 ### Console output (sanitized)
 
 - [ifconfig output (page 1)](/pfSense/pfSenseifconfig1.png)
-  - 
+  - Interface configuration showing assigned IPs, MAC addresses, and active interfaces for WAN and internal lab networks.
 - [ifconfig output (page 2)](/pfSense/pfSenseifconfig2.png)
-  - 
+  - Interface configuration showing assigned IPs, MAC addresses, and active interfaces for WAN and internal lab networks.
 - [netstat -rn output (page 1)](/pfSense/pfSensenetstat1.png)
-  - 
+  - Routing table verifying default gateway, internal subnets, and proper route prioritization.
 - [netstat -rn output (page 2)](/pfSense/pfSensenetstat2.png)
-  - 
+  - Routing table verifying default gateway, internal subnets, and proper route prioritization.
 
 ## Lessons Learned (Coming soon!)
