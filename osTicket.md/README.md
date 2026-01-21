@@ -13,7 +13,7 @@
 - **Network:** pfSense LAN (10.10.0.0/24)
 - **Static IP:** 10.10.0.X
 
-## High-Level Build Steps (Skeleton)
+## High-Level Build Steps
 1. Create Ubuntu VM in Hyper-V (CPU/RAM/Disk)
 2. Update/upgrade packages
 3. Set static IP + DNS
@@ -25,17 +25,16 @@
 9. Create admin + agents + departments/teams
 10. Configure email piping/inbound + outbound SMTP
 
-## Validation / Evidence (Screenshots coming soon!)
-- System info / OS version + IP config
-- Web UI accessible from Win11 Jump (screenshot)
-- Admin panel showing:
-  - Departments/Teams
-  - Agents
-  - SLAs / Help Topics
-- Demo workflow:
-  1. Create a ticket
-  2. Assign to an agent
-  3. Update status/notes
-  4. Resolve/close ticket
+## Screenshots
+[Ubuntu verion]()
+[Ubuntu - file checksum]()
+[Ubuntu - mid update]()
+[Ubuntu - freshly updated]()
+[osTicket - client screen from Jump box]()
+[osTicket - Admin panel]()
 
-## Lessons Learned (Coming soon!)
+## Lessons Learned
+
+[Mistakes in bash, oops!]()
+[osTicket admin login DENIED, Nooo!]()
+[Maybe resetting the password will work?]()
