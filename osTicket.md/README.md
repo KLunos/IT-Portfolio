@@ -26,7 +26,7 @@
 10. Configure email piping/inbound + outbound SMTP
 
 ## Screenshots
-- [Ubuntu verion]()
+- [Ubuntu - version]()
 - [Ubuntu - file checksum]()
 - [Ubuntu - mid update]()
 - [Ubuntu - freshly updated]()
@@ -36,5 +36,5 @@
 ## Lessons Learned
 
 - [Mistakes in bash, oops!]()
-- [osTicket admin login DENIED, Nooo!]()
+- [osTicket admin login DENIED, nooo!]()
 - [Maybe resetting the password will work?]()
