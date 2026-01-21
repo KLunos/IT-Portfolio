@@ -33,5 +33,5 @@
 - [Active Directory - users/groups](/AD/AD-groups-and-users.png)
 
 ## Notes / Lessons Learned
-- [server error status]()
+- [Server error status?](/AD/AD-server-error.png)
 - [We cleared it!]()
