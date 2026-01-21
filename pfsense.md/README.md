@@ -1,4 +1,4 @@
-# pfSense Firewall and VLAN Segmentation
+# pfSense (Firewall and VLAN Segmentation)
 
 ## Purpose
 I built pfSense as an edge firewall and router for my home lab to practice real-world network segmentation, access control, and troubleshooting.
