@@ -19,7 +19,7 @@ The Jump Box is the only machine allowed to directly manage sensitive infrastruc
 
 ## Screenshots
 
--[Windows version]()
+- [Windows version]()
 - [Machine specs]()
 - [Active Directory Admin credentials]()
 - [Manually setting an IP temporarily]()
