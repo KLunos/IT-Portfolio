@@ -17,7 +17,7 @@ The host runs on Windows 11 Pro. The virtual machines are run in Hyper-V and are
 This visually documents the physical layout and logical segmentation of my home network, along with the VLANs, firewall, boundaries, and routing paths of my home lab.
 
 - [Host Windows version](/HostWinVer.png)
-- [Host specs]()
+- [Host specs](/HostSpecs.png)
 - [Proof of life!]()
 
 ### Physical Topology
