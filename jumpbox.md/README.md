@@ -16,15 +16,13 @@ The Jump Box is the only machine allowed to directly manage sensitive infrastruc
 - Domain-joined
 - Admin tools installed
 - Hardened access policies
-- Restricted firewall rules
 
-## Screenshots (Coming soon!)
+## Screenshots
 
-- [ ] Desktop
-- [ ] RDP sessions
-- [ ] Admin tools
-- [ ] Network settings
-- [ ] Security policies
+-[Windows version]()
+- [Machine specs]()
+- [Active Directory Admin credentials]()
+- [Manually setting an IP temporarily]()
 
 ## Lessons Learned (Coming soon!)
 
