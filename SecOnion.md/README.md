@@ -35,7 +35,7 @@
 9. Validate: alerts/logs/PCAP visibility in the UI
 
 ## Screenshots
-[Security Onion install file checksum]()
+[Security Onion install file checksum](/SecOnion/SO-hash.png)
 [Security Onion - mid setup]()
 [Layered updating]()
 [Web interface from Win11 Jump box]()
