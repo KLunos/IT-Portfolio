@@ -31,9 +31,9 @@
 - [Ubuntu - mid update](/osTicket/Ubuntu-updating.png)
 - [Ubuntu - freshly updated](/osTicket/Ubuntu-updated.png)
 - [osTicket - client screen from Jump box](/osTicket/osTicket-from-Win11Jump.png)
-- [osTicket - Admin panel](/osTicket/osTicket-Admin-Panel.png)
+- [osTicket - admin panel](/osTicket/osTicket-Admin-Panel.png)
 
-## Lessons Learned
+## Lessons / Notes
 
 - [Mistakes in bash, oops!](/osTicket/Ubuntu-real-time-mistakes.png)
 - [osTicket admin login DENIED, nooo!](/osTicket/osTicket-denied-login.png)
