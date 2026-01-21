@@ -1,11 +1,11 @@
 ## Kev's IT Portfolio
 
-This project was born on October 17th, 2025, and will continue to improve in detail and evolve as I discover more of my own interests in the world of IT. I have worked with computers in some capacity my entire life, beginning with the Atari ST and Commodore Amiga. Being a gamer my whole life, maybe its only natural that I feel a pull towards IT Security as a long term career. But this is just the beginning, so I have immersed myself in the world of ticketing systems, network troubleshooting, and documentation.
+  This project was born on October 17th, 2025, and will continue to improve in detail and evolve as I discover more of my own interests in the world of IT. I have worked with computers in some capacity my entire life, beginning with the Atari ST and Commodore Amiga. Being a gamer my whole life, maybe its only natural that I feel a pull towards IT Security as a long term career. But this is just the beginning, so I have immersed myself in the world of ticketing systems, network troubleshooting, and documentation.
 I am CompTIA A+, Network+, and Security+ certified. Obtaining these self credentials and creating a home lab by myself from scratch proves that I am well prepared for work in the IT field.
 
 ## Overview
 
-Using a hypervisor on my laptop, I simulate a real-world business environment where users connect through a firewall to internal services via a Windows jump box. This provides access to an Ubuntu Apache server running osTicket, a Windows server running an Active Directory domain, and a full Security Onion monitoring stack. This portfolio is designed to document what I built, how I built it, why I built it, what issues I ran into along the way, and how I fixed them. Included are many screenshots designed to prove that what I claim I built exists, and works. This includes the connections involved in my networking maps. They also tell the story of mistakes made along the way, and how I learned from them.
+  Using a hypervisor on my laptop, I simulate a real-world business environment where users connect through a firewall to internal services via a Windows jump box. This provides access to an Ubuntu Apache server running osTicket, a Windows server running an Active Directory domain, and a full Security Onion monitoring stack. This portfolio is designed to document what I built, how I built it, why I built it, what issues I ran into along the way, and how I fixed them. Included are many screenshots designed to prove that what I claim I built exists, and works. This includes the connections involved in my networking maps. They also tell the story of mistakes made along the way, and how I learned from them.
 
 ### Hardware
 Laptop: Lenovo ThinkPad, Ryzen 7 7735HS, 64 GB RAM, 1 TB SSD
