@@ -38,7 +38,7 @@
 - [Security Onion - install file checksum](/SecOnion/SO-hash.png)
 - [Security Onion - mid setup](/SecOnion/SO-initial-setup.png)
 - [Layered updating](/SecOnion/SO-updating.png)
-- [Web interface from Win11 Jump box]()
+- [Web interface from Win11 Jump box](/SecOnion/SO-UI-from-Win11Jump.png)
 
 ## Lessons / Notes
 
