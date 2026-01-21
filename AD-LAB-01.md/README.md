@@ -30,7 +30,7 @@
 - [Domain controller login](/AD/AD-login.png)
 - [Updates in progress](/AD/AD-updating.png)
 - [Main server dashboard](/AD/AD-server-dashbard.png)
-- [Active Directory - users/groups]()
+- [Active Directory - users/groups](/AD/AD-groups-and-users.png)
 
 ## Notes / Lessons Learned
 - [server error status]()
