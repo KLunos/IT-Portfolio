@@ -29,7 +29,7 @@
 - [Windows Server version](/AD/AD-server-version.png)
 - [Domain controller login](/AD/AD-login.png)
 - [Updates in progress](/AD/AD-updating.png)
-- [Main server dashboard]()
+- [Main server dashboard](/AD/AD-server-dashbard.png)
 - [Active Directory - users/groups]()
 
 ## Notes / Lessons Learned
