@@ -31,7 +31,7 @@
 - [Ubuntu - mid update]()
 - [Ubuntu - freshly updated](/osTicket/Ubuntu-updated.png)
 - [osTicket - client screen from Jump box]()
-- [osTicket - Admin panel]()
+- [osTicket - Admin panel](/osTicket/osTicket-Admin-Panel.png)
 
 ## Lessons Learned
 
