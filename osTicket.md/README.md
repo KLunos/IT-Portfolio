@@ -26,7 +26,7 @@
 10. Configure email piping/inbound + outbound SMTP
 
 ## Screenshots
-- [Ubuntu - version]()
+- [Ubuntu - version](/osTicket/osTicket-all-versions.png)
 - [Ubuntu - file checksum]()
 - [Ubuntu - mid update]()
 - [Ubuntu - freshly updated]()
