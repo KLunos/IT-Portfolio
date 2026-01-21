@@ -44,4 +44,4 @@
 
 - [Not up to date, better fix!]()
 - [Up to date now, confirmed!]()
-- [time sync is now fixed]()
+- [time sync is now fixed](/SecOnion/SO-timesync-fixed.png)
