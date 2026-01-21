@@ -32,14 +32,21 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 ## Screenshots
 
 - [pfSense Web UI login (from Win11 Jump)](/pfSense/pfSense-WebUI-Login-from-jump.png)
-  - Web interface accessed from the Win11 jump box, confirming management access is restricted to the admin VLAN.
-- [pfSense console main menu](/pfSense/pfSense-main-console.png)
+  - Web interface accessed from the Windows 11 jump box VM. This confirms management access is restricted to the admin VLAN. The “Not secure” browser warning is expected — this pfSense uses a self-signed internal certificate, which is not trusted by default on clients.
+- [pfSense VM console: main menu](/pfSense/pfSense-main-console.png)
+  -pfSense VM console view showing system status and available administrative options. 
 - [Jump box IP config (vExternal + vLabLAN)](/pfSense/pfSense-Interfaces-vExternal-vLabLAN.png)
+  -Host-level PowerShell output showing the virtual switches (vExternal and vLabLAN) that connect the pfSense VM to the external network and internal lab network.
 
 ### Console output (sanitized)
-- [ifconfig (page 1)](/pfSense/pfSenseifconfig1.png)
-- [ifconfig (page 2)](/pfSense/pfSenseifconfig2.png)
-- [netstat -rn (page 1)](/pfSense/pfSensenetstat1.png)
-- [netstat -rn (page 2)](/pfSense/pfSensenetstat2.png)
+
+- [ifconfig output (page 1)](/pfSense/pfSenseifconfig1.png)
+  - 
+- [ifconfig output (page 2)](/pfSense/pfSenseifconfig2.png)
+  - 
+- [netstat -rn output (page 1)](/pfSense/pfSensenetstat1.png)
+  - 
+- [netstat -rn output (page 2)](/pfSense/pfSensenetstat2.png)
+  - 
 
 ## Lessons Learned (Coming soon!)
