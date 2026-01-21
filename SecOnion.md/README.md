@@ -39,7 +39,7 @@
 - [Security Onion - mid setup](/SecOnion/SO-initial-setup.png)
 - [Layered updating](/SecOnion/SO-updating.png)
 - [Web interface from Win11 Jump box](/SecOnion/SO-UI-from-Win11Jump.png)
-- 
+- [Security Onion - dashboard metrics](/SecOnion/SO-main-dashboard.png)
 - [Security Onion - ips and ports report](/SecOnion/SO-ips-and-ports.png)
 
 ## Lessons / Notes
