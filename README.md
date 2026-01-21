@@ -1,6 +1,6 @@
 ## Kev's IT Portfolio
 
--This project was born on October 17th, 2025, and will continue to improve in detail and evolve as I discover more of my own interests in the world of IT. I have worked with computers in some capacity my entire life, beginning with the Atari ST and Commodore Amiga. Being a gamer my whole life, maybe its only natural that I feel a pull towards IT Security as a long term career. But this is just the beginning, so I have immersed myself in the world of ticketing systems, network troubleshooting, and documentation.
+This project was born on October 17th, 2025, and will continue to improve in detail and evolve as I discover more of my own interests in the world of IT. I have worked with computers in some capacity my entire life, beginning with the Atari ST and Commodore Amiga. Being a gamer my whole life, maybe its only natural that I feel a pull towards IT Security as a long term career. But this is just the beginning, so I have immersed myself in the world of ticketing systems, network troubleshooting, and documentation.
 I am CompTIA A+, Network+, and Security+ certified. Obtaining these self credentials and creating a home lab by myself from scratch proves that I am well prepared for work in the IT field.
 
 ## Overview
