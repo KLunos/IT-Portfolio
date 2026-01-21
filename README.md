@@ -19,6 +19,7 @@ This visually documents the physical layout and logical segmentation of my home 
 - [Host Windows version](/HostWinVer.png)
 - [Host specs](/HostSpecs.png)
 - [Proof of life!](/HomeLabRunning.png)
+  - This shows Hyper-V, with all five virtual machines running.
 
 ### Physical Topology
 - [Physical Network Map](Physical-Topology.png)
