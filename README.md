@@ -36,6 +36,8 @@ This visually documents the physical layout and logical segmentation of my home 
 # [Jump Box](jumpbox.md)
   - Run on Windows 11 Pro, this is used for administration through the web interfaces of all four other VMs.
 # [osTicket](osTicket.md)
-  - This is running on an Ubuntu Apache server, using MariaDB.
+  - This is run on an Ubuntu Apache server, using MariaDB.
 # [Active Directory](AD-LAB-01.md)
+  - This runs on Windows Server 2022. The Jump Box doubles as a management account, and a domain client.
 # [Security Onion](SecOnion.md)
+  - This is on Ubuntu, and blankets the whole set-up.
