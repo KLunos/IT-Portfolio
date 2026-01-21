@@ -34,4 +34,4 @@
 
 ## Notes / Lessons Learned
 - [Server error status?](/AD/AD-server-error.png)
-- [We cleared it!](AD/AD-server-fixed.png)
+- [We cleared it!](/AD/AD-server-fixed.png)
