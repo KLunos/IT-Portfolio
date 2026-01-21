@@ -27,7 +27,7 @@
 
 ## Screenshots
 - [Ubuntu - version](/osTicket/osTicket-all-versions.png)
-- [Ubuntu - file checksum](/osTicket/Ubuntu-hash.png)
+- [Ubuntu - installation file checksum](/osTicket/Ubuntu-hash.png)
 - [Ubuntu - mid update](/osTicket/Ubuntu-updating.png)
 - [Ubuntu - freshly updated](/osTicket/Ubuntu-updated.png)
 - [osTicket - client screen from Jump box](/osTicket/osTicket-from-Win11Jump.png)
