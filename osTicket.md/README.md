@@ -29,7 +29,7 @@
 - [Ubuntu - version](/osTicket/osTicket-all-versions.png)
 - [Ubuntu - file checksum](/osTicket/Ubuntu-hash.png)
 - [Ubuntu - mid update]()
-- [Ubuntu - freshly updated]()
+- [Ubuntu - freshly updated](/osTicket/Ubuntu-updated.png)
 - [osTicket - client screen from Jump box]()
 - [osTicket - Admin panel]()
 
