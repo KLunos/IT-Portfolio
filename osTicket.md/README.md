@@ -35,6 +35,6 @@
 
 ## Lessons Learned
 
-- [Mistakes in bash, oops!]()
+- [Mistakes in bash, oops!](/osTicket/Ubuntu-real-time-mistakes.png)
 - [osTicket admin login DENIED, nooo!]()
 - [Maybe resetting the password will work?]()
