@@ -26,7 +26,7 @@
 8. Join Win11 Jump box to domain
 
 ## Screenshots
-- [Windows Server version]()
+- [Windows Server version](/AD/AD-server-version.png)
 - [Domain controller login]()
 - [Updates in progress]()
 - [Main server dashboard]()
