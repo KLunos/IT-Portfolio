@@ -13,13 +13,13 @@
 - **Domain:** LAB.LOCAL
 - **Network:** pfSense LAN (10.10.0.0/24)
 - **Static IP:** 10.10.0.X
-- **DNS:** 127.0.0.1 (preferred) / 10.10.0.X (alternate)
+- **DNS:** default gateway (preferred) / 8.8.8.8 (alternate)
 
 ## High-Level Build Steps
 1. Create VM in Hyper-V (CPU/RAM/Disk)
 2. Set static IP + correct DNS settings
 3. Rename server to **AD-LAB-01**
-4. Install **Active Directory Domain Services**
+4. Install Active Directory Domain Services
 5. Promote to Domain Controller
 6. Install/verify **DNS**
 7. Create some OUs, users, and groups
