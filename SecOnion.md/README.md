@@ -43,5 +43,5 @@
 ## Lessons / Notes
 
 - [Not up to date, better fix!](/SecOnion/SO-outdated-error.png)
-- [Up to date now, confirmed!]()
+- [Up to date now, confirmed!](/SecOnion/SO-up-to-date-confirmed.png)
 - [time sync is now fixed](/SecOnion/SO-timesync-fixed.png)
