@@ -15,22 +15,23 @@
 - **Static IP:** 10.10.0.X
 - **DNS:** 127.0.0.1 (preferred) / 10.10.0.X (alternate)
 
-## High-Level Build Steps (Skeleton)
+## High-Level Build Steps
 1. Create VM in Hyper-V (CPU/RAM/Disk)
 2. Set static IP + correct DNS settings
 3. Rename server to **AD-LAB-01**
 4. Install **Active Directory Domain Services**
 5. Promote to Domain Controller
 6. Install/verify **DNS**
-7. Create baseline OUs, users, and groups
+7. Create some OUs, users, and groups
 8. Join Win11 Jump box to domain
 
-## Validation / Evidence (Screenshots coming soon!)
+## Screenshots
 - Server name + IP config
 - AD DS installed + DC promotion success
 - DNS console showing forward lookup zone
 - Domain Users/Computers or custom OU structure
 - Win11 Jump box successfully domain-joined
 
-## Notes / Lessons Learned (Coming soon!)
-- DHCP vs DNS split decisions (pfSense vs AD)
+## Notes / Lessons Learned
+- [server error status]()
+- [We cleared it!]()
