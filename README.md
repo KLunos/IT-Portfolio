@@ -35,6 +35,7 @@ This visually documents the physical layout and logical segmentation of my home 
   - My firewall setup and VLAN segmentation.
 # [Jump Box](jumpbox.md)
   - Run on Windows 11 Pro, this is used for administration through the web interfaces of all four other VMs.
-# [osTicket (Ubuntu Server)](osTicket.md)
+# [osTicket](osTicket.md)
+  - This is running on an Ubuntu Apache server, using MariaDB.
 # [Active Directory](AD-LAB-01.md)
 # [Security Onion](SecOnion.md)
