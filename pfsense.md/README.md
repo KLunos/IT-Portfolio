@@ -49,4 +49,4 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 - [netstat -rn output (page 2)](/pfSense/pfSensenetstat2.png)
   - Routing table verifying default gateway, internal subnets, and proper route prioritization.
 
-## Lessons Learned (Coming soon!)
+## Lessons / Notes (coming soon)
