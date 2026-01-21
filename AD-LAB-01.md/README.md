@@ -28,7 +28,7 @@
 ## Screenshots
 - [Windows Server version](/AD/AD-server-version.png)
 - [Domain controller login](/AD/AD-login.png)
-- [Updates in progress]()
+- [Updates in progress](/AD/AD-updating.png)
 - [Main server dashboard]()
 - [Active Directory - users/groups]()
 
