@@ -22,7 +22,7 @@ The Jump Box is the only machine allowed to directly manage sensitive infrastruc
 - [Windows version](/Win11Jump/Win11Jump-OS-Version.png)
   - Nothing fancy here, just proof of the current version of Windows 11.
 - [Machine specs](/Win11Jump/Win11Jump-Specs.png)
-  - 
+  - Again, just your run of the mill system specifications, RAM, etc.
 - [Active Directory Admin credentials](/Win11Jump/Win11Jump-connected-to-AD.png)
   - 
 - [Manually setting an IP temporarily](/Win11Jump/Win11Jump-manual-IP.png)
