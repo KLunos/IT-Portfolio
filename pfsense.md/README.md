@@ -6,9 +6,9 @@ I built pfSense as an edge firewall and router for my home lab to practice real-
 ## Virtual Machine Specifications (Hyper-V)
 - The resources I allocated for this virtual machine to run well on the PC.
   - Name:
-  - Disk drive space:
+  - Storage (max/used):
   - Memory:
-  - CPU cores:
+  - vCPU:
 
 ## What I Built
 - WAN/LAN routing using pfSense as the gateway
