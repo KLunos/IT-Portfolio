@@ -12,7 +12,7 @@
   - Storage (max/used): 3.11GB / 80GB
   - Memory: 4GB
   - vCPU: 2
-  - [AD-LAB-01](/AD/AD-specs.png)
+- [AD-LAB-01](/AD/AD-specs.png)
 
 ## Lab Context
 - **VM Name:** AD-LAB-01
