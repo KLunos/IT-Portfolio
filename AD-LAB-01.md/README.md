@@ -15,7 +15,6 @@
 - [AD-LAB-01](/AD/AD-specs.png)
 
 ## Lab Context
-- **VM Name:** AD-LAB-01
 - **OS:** Windows Server 2022
 - **Role(s):** AD DS, DNS
 - **Domain:** LAB.LOCAL
