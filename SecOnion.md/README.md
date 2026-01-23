@@ -5,6 +5,13 @@
 - Generate and inspect alerts, logs, and packet data
 - Practice “SOC-style” workflows: triage → investigate → document findings
 
+  ## Virtual Machine Specifications (Hyper-V)
+- The resources I allocated for this virtual machine to run well on the PC.
+  - Name:
+  - Storage (max/used):
+  - Memory:
+  - vCPU:
+
 ## Lab Context
 - **VM Name:** SEC-ONION-01
 - **OS:** Security Onion (Oracle Linux-based)
