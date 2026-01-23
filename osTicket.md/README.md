@@ -7,14 +7,13 @@
 
 ## Virtual Machine Specifications (Hyper-V)
 - The resources I allocated for this virtual machine to run well on the PC.
-  - Name:
-  - Storage (max/used):
-  - Memory:
-  - vCPU:
-- [osTicket](/osTicket/osTicket-specs.png)
+  - Name: Ubuntu-osticket
+  - Storage (max/used): 1.01GB / 40GB
+  - Memory: 4GB
+  - vCPU: 2
+- [Ubuntu-osticket](/osTicket/osTicket-specs.png)
 
 ## Lab Context
-- **VM Name:** Ubuntu-osTicket
 - **OS:** Ubuntu Server 24.04.3 LTS (Noble Numbat)
 - **App:** osTicket 
 - **Web Stack:** Apache/2.4.58 + PHP 8.4.17 CLI + MariaDB ver 15.1
