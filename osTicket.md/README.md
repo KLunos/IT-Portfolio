@@ -5,6 +5,13 @@
 - Create tickets, manage SLAs, assign agents, and document resolution steps
 - Tie into AD users to show identity + support process together (advanced steps for later)
 
+## Virtual Machine Specifications (Hyper-V)
+- The resources I allocated for this virtual machine to run well on the PC.
+  - Name:
+  - Storage (max/used):
+  - Memory:
+  - vCPU:
+
 ## Lab Context
 - **VM Name:** Ubuntu-osTicket
 - **OS:** Ubuntu Server 24.04.3 LTS (Noble Numbat)
