@@ -19,6 +19,7 @@ This visually documents the physical layout and logical segmentation of my home 
 - [Host Windows version](/HostWinVer.png)
   - My laptop runs Windows 11 Pro, version 25H2.
 - [Host specs](/HostSpecs.png)
+  - My laptop's system specifications.
 - [My virtual switches](/My-virtual-switches.png)
   - Visual documentation of the virtual switches used in this home lab.
 - [Proof of life!](/HomeLabRunning.png)
