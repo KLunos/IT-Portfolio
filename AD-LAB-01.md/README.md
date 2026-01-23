@@ -43,7 +43,7 @@
 - [Main server dashboard](/AD/AD-server-dashbard.png)
   - Just a basic shot of the dashboard, showing that it exists.
 - [Active Directory - users/groups](/AD/AD-groups-and-users.png)
-  - My first time inside, messing around by creating random groups and users.
+  - One of my first times inside, messing around by creating random groups and users.
 
 ## Notes / Lessons Learned
 - [Server error status?](/AD/AD-server-error.png)
