@@ -3,6 +3,10 @@
 ## Purpose
 I built pfSense as an edge firewall and router for my home lab to practice real-world network segmentation, access control, and troubleshooting.
 
+## Virtual Machine Hyper-V Specifications
+
+
+
 ## What I Built
 - WAN/LAN routing using pfSense as the gateway
 - VLAN segmentation for isolated networks
