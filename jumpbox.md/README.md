@@ -9,6 +9,7 @@ This VM serves as a secure management workstation used to access and administer 
   - Storage (max/used):
   - Memory:
   - vCPU:
+- [Win11-Jump](/Win11Jump/Win11Jump-specs.png)
 
 ## What I Built
 - Centralized admin access point
