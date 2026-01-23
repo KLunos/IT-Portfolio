@@ -17,6 +17,7 @@ The host runs on Windows 11 Pro. The virtual machines are run in Hyper-V and are
 This visually documents the physical layout and logical segmentation of my home network, along with the VLANs, firewall, boundaries, and routing paths of my home lab.
 
 - [Host Windows version](/HostWinVer.png)
+  - My laptop runs Windows 11 Pro, version 25H2.
 - [Host specs](/HostSpecs.png)
 - [My virtual switches](/My-virtual-switches.png)
   - Visual documentation of the virtual switches used in this home lab.
