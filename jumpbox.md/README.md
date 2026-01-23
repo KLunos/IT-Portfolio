@@ -26,7 +26,7 @@ The Jump Box is the only machine allowed to directly manage sensitive infrastruc
 - [Active Directory Admin credentials](/Win11Jump/Win11Jump-connected-to-AD.png)
   - This shows me logging into the Jump Box using the Active Directory admin credentials.
 
-## Lessons / Notes (coming soon)
+## Lessons / Notes
 
 - [Manually setting an IP temporarily](/Win11Jump/Win11Jump-manual-IP.png)
   - I had to manually set an IP for this VM early on in lab production. Unfortunately, I can't remember the exact reason.
