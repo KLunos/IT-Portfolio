@@ -5,11 +5,11 @@ This VM serves as a secure management workstation used to access and administer 
 
 ## Virtual Machine Specifications (Hyper-V)
 - The resources I allocated for this virtual machine to run well on the PC.
-  - Name:
-  - Storage (max/used):
-  - Memory:
-  - vCPU:
-- [Win11-Jump](/Win11Jump/Win11Jump-specs.png)
+  - Name: Win11 Jump
+  - Storage (max/used): 9.92GB / 80GB
+  - Memory: 4GB
+  - vCPU: 2
+- [Win11 Jump](/Win11Jump/Win11Jump-specs.png)
 
 ## What I Built
 - Centralized admin access point
