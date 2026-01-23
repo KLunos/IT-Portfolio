@@ -6,12 +6,13 @@
 - Practice “SOC-style” workflows: triage → investigate → document findings
 
   ## Virtual Machine Specifications (Hyper-V)
-  -[Security Onion](/SecOnion/SecOnion-specs.png)
+ 
 - The resources I allocated for this virtual machine to run well on the PC.
   - Name:
   - Storage (max/used):
   - Memory:
   - vCPU:
+- [Security Onion](/SecOnion/SecOnion-specs.png)
 
 ## Lab Context
 - **VM Name:** SEC-ONION-01
