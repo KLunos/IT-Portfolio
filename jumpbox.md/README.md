@@ -24,7 +24,7 @@ The Jump Box is the only machine allowed to directly manage sensitive infrastruc
 - [Machine specs](/Win11Jump/Win11Jump-Specs.png)
   - Again, just your run of the mill system specifications, RAM, etc.
 - [Active Directory Admin credentials](/Win11Jump/Win11Jump-connected-to-AD.png)
-  - 
+  - This shows me logging into the Jump Box using the Active Directory server administration credentials.
 - [Manually setting an IP temporarily](/Win11Jump/Win11Jump-manual-IP.png)
   - 
 
