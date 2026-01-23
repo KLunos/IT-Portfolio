@@ -12,6 +12,7 @@
   - Storage (max/used):
   - Memory:
   - vCPU:
+  - [AD-LAB-01](/pfSense/pfSense-specs.png)
 
 ## Lab Context
 - **VM Name:** AD-LAB-01
