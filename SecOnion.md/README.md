@@ -60,9 +60,9 @@
 ## Lessons / Notes
 
 After initial installation, life kept me away from Security Onion for over a month. When I came back, I couldn't log into the web UI from the jump box. I could not pass MFA. It claimed my authenticator code was incorrect. It wasn't.
-- [Not up to date, better fix!](/SecOnion/SO-outdated-error.png)
+- [Not up to date, better fix](/SecOnion/SO-outdated-error.png)
   - So to begin troubleshooting, I logged into Ubuntu via the Hyper-V console. I discovered it was missing updates.
-- [Up to date now, confirmed!](/SecOnion/SO-up-to-date-confirmed.png)
+- [Up to date now, confirmed](/SecOnion/SO-up-to-date-confirmed.png)
   - After 3 helpings of 'sudo soup', I verified it was up to date. However, the problem persisted. After some investigation I noticed the time zone was incorrect.
-- [Time sync is now fixed](/SecOnion/SO-timesync-fixed.png)
+- [Time sync is now fixed, login repaired!](/SecOnion/SO-timesync-fixed.png)
   - After manually changing the time in Ubuntu, I was able to log in from the jump box! A classic example of time sensitive MFA being out of sync.
