@@ -8,11 +8,11 @@
 
   ## Virtual Machine Specifications (Hyper-V)
 - The resources I allocated for this virtual machine to run well on the PC.
-  - Name:
-  - Storage (max/used):
-  - Memory:
-  - vCPU:
-  - [AD-LAB-01](/pfSense/pfSense-specs.png)
+  - Name: AD-LAB-01
+  - Storage (max/used): 3.11GB / 80GB
+  - Memory: 4GB
+  - vCPU: 2
+  - [AD-LAB-01](/AD/AD-specs.png)
 
 ## Lab Context
 - **VM Name:** AD-LAB-01
