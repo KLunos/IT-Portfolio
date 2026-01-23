@@ -11,6 +11,7 @@
   - Storage (max/used):
   - Memory:
   - vCPU:
+- [osTicket](/osTicket/osTicket-specs.png)
 
 ## Lab Context
 - **VM Name:** Ubuntu-osTicket
