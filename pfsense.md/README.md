@@ -4,7 +4,7 @@
 I built pfSense as an edge firewall and router for my home lab to practice real-world network segmentation, access control, and troubleshooting.
 
 ## Virtual Machine Specifications (Hyper-V)
-- These are the resources I allocated for this virtual machine to run well on my laptop.
+- The resources I allocated for this virtual machine to run well on the PC.
   - Name:
   - Disk drive space:
   - Memory:
