@@ -6,6 +6,13 @@
 - Provide DNS for lab clients and servers
 - Foundation for GPO, users/groups, and future security monitoring
 
+  ## Virtual Machine Specifications (Hyper-V)
+- The resources I allocated for this virtual machine to run well on the PC.
+  - Name:
+  - Storage (max/used):
+  - Memory:
+  - vCPU:
+
 ## Lab Context
 - **VM Name:** AD-LAB-01
 - **OS:** Windows Server 2022
