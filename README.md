@@ -18,6 +18,8 @@ This visually documents the physical layout and logical segmentation of my home 
 
 - [Host Windows version](/HostWinVer.png)
 - [Host specs](/HostSpecs.png)
+- [My virtual switches](/My-virtual-switches.png)
+  - Visual documentation of the virtual switches used in this home lab.
 - [Proof of life!](/HomeLabRunning.png)
   - This shows Hyper-V, with all five virtual machines running.
 
