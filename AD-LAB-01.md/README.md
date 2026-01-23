@@ -35,10 +35,15 @@
 
 ## Screenshots
 - [Windows Server version](/AD/AD-server-version.png)
+  - Proof of the version of Windows Server.
 - [Domain controller login](/AD/AD-login.png)
+  - This is medirectly logging into the server using the credentials I log in with from the jump box.
 - [Updates in progress](/AD/AD-updating.png)
+  - The place to directly execute updates is different from normal Windows.
 - [Main server dashboard](/AD/AD-server-dashbard.png)
+  - Just a basic shot of the dashboard, showing that it exists.
 - [Active Directory - users/groups](/AD/AD-groups-and-users.png)
+  - My first time inside, messing around by creating random groups and users.
 
 ## Notes / Lessons Learned
 - [Server error status?](/AD/AD-server-error.png)
