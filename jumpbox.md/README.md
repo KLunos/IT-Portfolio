@@ -3,6 +3,13 @@
 ## Purpose
 This VM serves as a secure management workstation used to access and administer internal lab systems.
 
+## Virtual Machine Specifications (Hyper-V)
+- The resources I allocated for this virtual machine to run well on the PC.
+  - Name:
+  - Storage (max/used):
+  - Memory:
+  - vCPU:
+
 ## What I Built
 - Centralized admin access point
 - RDP/SSH access to internal servers
