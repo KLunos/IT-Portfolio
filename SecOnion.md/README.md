@@ -8,10 +8,10 @@
   ## Virtual Machine Specifications (Hyper-V)
  
 - The resources I allocated for this virtual machine to run well on the PC.
-  - Name:
-  - Storage (max/used):
-  - Memory:
-  - vCPU:
+  - Name: SEC-ONION-01
+  - Storage (max/used): 28.14GB / 230GB
+  - Memory: 32.7GB
+  - vCPU: 6
 - [Security Onion](/SecOnion/SecOnion-specs.png)
 
 ## Lab Context
