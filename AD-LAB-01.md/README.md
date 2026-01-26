@@ -46,6 +46,6 @@
 
 ## Notes / Lessons Learned
 - [Server error status?](/AD/AD-server-error.png)
-  - My first server error. Fairly certain this was due to me not properly shutting down the VM.
+  - My first services error. I used Event Viewer to help me figure this one out, but honestly, I don't quite remember the details. I still wanted to include the idea of it here.
 - [I cleared it!](/AD/AD-server-fixed.png)
-  - 
+  - The issue above was resolved.
