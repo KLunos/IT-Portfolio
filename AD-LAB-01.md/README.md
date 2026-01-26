@@ -46,4 +46,6 @@
 
 ## Notes / Lessons Learned
 - [Server error status?](/AD/AD-server-error.png)
+  - My first server error. Fairly certain this was due to me not properly shutting down the VM.
 - [I cleared it!](/AD/AD-server-fixed.png)
+  - 
