@@ -26,7 +26,7 @@ This visually documents the physical layout and logical segmentation of my home 
   - This shows Hyper-V, with all five virtual machines running.
 
 ### Physical Topology
-- [Physical Network Map](PhysicalTopology2.png)
+- [Physical Network Map](PhysicalTopology.png)
 
 *This diagram shows the actual physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides within the network. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
 
