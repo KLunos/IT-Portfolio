@@ -33,8 +33,8 @@ This visually documents the physical layout and logical segmentation of my home 
 *This diagram shows the actual physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides within the network. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
 
 ### Logical Topology
-<a href="./LogicalTopology2.png">
-  <img src="./LogicalTopology2.png" width="720" />
+<a href="./LogicalTopology.png">
+  <img src="./LogicalTopology.png" width="720" />
 </a>
 
 *This diagram shows the logical structure of my home network, highlighting traffic flow through my virtual lab. It documents DHCP scopes and VLAN segmentation via pfSense, and multiple lab servers all monitored by Security Onion. This demonstrates my ability to design, secure, and document enterprise style network environments.*
