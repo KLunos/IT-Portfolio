@@ -45,16 +45,16 @@ This visually documents the physical layout and logical segmentation of my home 
   - Below are the pages detailing each of my virtual machines, in operational startup sequence.
 
 ## [pfSense](pfsense.md)
-  - My firewall setup and VLAN segmentation.
+  - Firewall setup and VLAN segmentation.
 
 ## [Jump Box](jumpbox.md)
-  - Run on Windows 11 Pro, this is used for administration through the web interfaces of all four other VMs.
+  - Windows 11 Pro: administration through the web interfaces of all VMs.
 
 ## [Active Directory](AD-LAB-01.md)
-  - This runs on Windows Server 2022. The Jump Box doubles as a management account, and a domain client.
+  - Windows Server 2022. The Jump Box = management account, and domain client.
 
 ## [osTicket](osTicket.md)
-  - This is run on an Ubuntu Apache server, using MariaDB.
+  - Ubuntu Apache server, MariaDB.
 
 ## [Security Onion](SecOnion.md)
-  - This is on Ubuntu, and blankets the whole set-up.
+  - Ubuntu, monitors all VMs.
