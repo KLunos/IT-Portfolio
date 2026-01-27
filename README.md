@@ -26,6 +26,7 @@ This visually documents the physical layout and logical segmentation of my home 
   - This shows Hyper-V, with all five virtual machines running.
 
 ### Physical Topology
+  - My home network. The 
 <a href="./PhysicalTopology.png">
   <img src="./PhysicalTopology.png" width="640" />
 </a>
