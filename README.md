@@ -26,7 +26,7 @@ This visually documents the physical layout and logical segmentation of my home 
   - This shows Hyper-V, with all five virtual machines running.
 
 ### Physical Topology
-  - My home network. The device that this virtual home lab lives is the "Lab Host" laptop in the middle.
+  - My home network. The device this virtual home lab lives on is the "Lab Host" laptop in the middle.
 <a href="./PhysicalTopology.png">
   <img src="./PhysicalTopology.png" width="640" />
 </a>
@@ -34,6 +34,7 @@ This visually documents the physical layout and logical segmentation of my home 
 *This displays the physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
 
 ### Logical Topology
+  - The digital map of my home network, with a detailed version of my home lab in the middle.
 <a href="./LogicalTopology.png">
   <img src="./LogicalTopology.png" width="750" />
 </a>
