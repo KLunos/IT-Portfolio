@@ -26,7 +26,7 @@ This visually documents the physical layout and logical segmentation of my home 
   - This shows Hyper-V, with all five virtual machines running.
 
 ### Physical Topology
-  - My home network. The device this virtual home lab lives on is the "Lab Host" laptop in the middle.
+  - My home network. The device this virtual home lab runs on is the "Lab Host" laptop in the middle.
 <a href="./PhysicalTopology.png">
   <img src="./PhysicalTopology.png" width="640" />
 </a>
