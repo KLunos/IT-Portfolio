@@ -27,7 +27,7 @@ This visually documents the physical layout and logical segmentation of my home 
 
 ### Physical Topology
 <a href="./PhysicalTopology.png">
-  <img src="./PhysicalTopology.png" width="600" />
+  <img src="./PhysicalTopology.png" width="640" />
 </a>
 
 *This diagram shows the actual physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides within the network. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
