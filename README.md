@@ -51,7 +51,7 @@ This visually documents the physical layout and logical segmentation of my home 
   - Windows 11 admin workstation: Manages all VMs.
 
 ## [Active Directory](AD-LAB-01.md)
-  - Windows Server 2022 domain services (identify/auth)
+  - Windows Server 2022 domain services (users/groups/GPO).
 
 ## [osTicket](osTicket.md)
   - Ubuntu + Apache + MariaDB: ticketing workflows.
