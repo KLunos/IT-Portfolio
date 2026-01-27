@@ -59,5 +59,5 @@ pfSense sits between the WAN and my internal virtual networks, controlling traff
 
 ## Lessons / Notes (coming soon)
 
-- [Too many checkpoints!](/pfSense/pfSense-too-many-checkpoints.png)
-  - Early on during lab creation, I got carried away with checkpoints! Now, I keep 3 for each VM, max.
+- [Too many checkpoints](/pfSense/pfSense-too-many-checkpoints.png)
+  - Early on during lab creation, I got carried away with checkpoints. Now, I keep 3 for each VM, max.
