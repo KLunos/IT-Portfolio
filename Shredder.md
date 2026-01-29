@@ -27,12 +27,12 @@
 ## Photos
 
 <p align="center">
-  <img src="Misc/Shredder-before.jpg" width="420">
-  <img src="Misc/StuckCards.jpg"  width="420">
+  <img src="Misc/Shredder-before.jpg" width="420" height="400">
+  <img src="Misc/StuckCards.jpg"  width="420" height="400">
 </p>
 
 <p align="center">
-  <img src="Misc/ShredderTools.jpg" width="420">
-  <img src="Misc/Shredder-after.jpg"  width="420">
+  <img src="Misc/ShredderTools.jpg" width="420" height="400">
+  <img src="Misc/Shredder-after.jpg"  width="420" height="400">
 </p>
 
