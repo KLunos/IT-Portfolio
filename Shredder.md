@@ -26,5 +26,14 @@
 
 ## Photos
 
+<p><img src="PATH/TO/HERO.jpg" width="850"></p>
 
+
+<p><img src="PATH/TO/PIC2.jpg" width="550"></p>
+
+
+<p><img src="PATH/TO/PIC3.jpg" width="550"></p>
+
+
+<p><img src="PATH/TO/PIC4.jpg" width="550"></p>
 
