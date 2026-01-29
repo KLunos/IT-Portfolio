@@ -60,7 +60,7 @@ This visually documents the physical layout and logical segmentation of my home 
   - Ubuntu: lab-wide network monitoring/IDS.
 
 # Side Projects
-  - Misc troubleshooting / Random IT activities / side quests.
+  - Misc troubleshooting / random IT activities / side quests.
 
 ## Shredder
   - Broken shredder ticket
