@@ -1,5 +1,5 @@
 # Backups
-  - Backups are one of the biggest defenses against ransomware, hardware failure, and random chaos.
+  - Backups are one of the biggest defenses against cyber-attacks, hardware failure, or random chaos.
 
 ## My personal strategy
   - Local-only backups (no cloud).
