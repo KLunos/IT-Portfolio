@@ -27,16 +27,16 @@ This visually documents the physical layout and logical segmentation of my home 
 
 ### Physical Topology
   - My home network. The device this virtual home lab runs on is the "Lab Host" laptop in the middle.
-<a href="./PhysicalTopology.png">
-  <img src="./PhysicalTopology.png" width="640" />
+<a href="./Misc/PhysicalTopology.png">
+  <img src="./Misc/PhysicalTopology.png" width="640" />
 </a>
 
 *This displays the physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
 
 ### Logical Topology
   - The digital map of my home network, with a detailed version of my home lab in the middle.
-<a href="./LogicalTopology.png">
-  <img src="./LogicalTopology.png" width="780" />
+<a href="./Misc/LogicalTopology.png">
+  <img src="./Misc/LogicalTopology.png" width="780" />
 </a>
 
 *This shows the logical structure of my home network, highlighting traffic flow through my virtual lab. It documents DHCP scopes and VLAN segmentation via pfSense, and multiple lab servers all monitored by Security Onion. This demonstrates my ability to design, secure, and document enterprise style network environments.*
