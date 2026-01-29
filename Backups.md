@@ -11,7 +11,7 @@
   - Latest backup completed successfully (100%).
 
 ## Screenshots
-  <img src="Screenshots/your-image.png" width="600">
+  <img src="Misc/BackupComplete.png" width="600">
   <img src="Screenshots/your-image.png" width="600">  
 
 
