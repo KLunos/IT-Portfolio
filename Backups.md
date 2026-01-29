@@ -11,7 +11,7 @@
   - Latest backup completed successfully (100%).
 
 ## Screenshots
-  ![Backup history](path/to/backup-history.png)
+  ![Backup history](Misc/BackupComplete.png)
   ![Backup completed](path/to/backup-complete.png)
 
 
