@@ -32,7 +32,6 @@
   <img src="Misc/StuckCards.jpg"  width="420" height="360">
 </p>
   - (left) The teeth before cleaning. (right) The discovery.
-  -
 <p align="center">
   <img src="Misc/ShredderTools.jpg" width="420" height="600">
   <img src="Misc/Shredder-after.jpg"  width="420" height="500">
