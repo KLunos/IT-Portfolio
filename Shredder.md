@@ -26,10 +26,10 @@
 
 ## Photos
 
-<p><img src="Misc/Shredder-before.jpg" width="500"></p>
-
-
-<p><img src="Misc/StuckCards.jpg" width="500"></p>
+<p align="center">
+  <img src="PATH/Before.jpg" width="420">
+  <img src="PATH/Cards.jpg"  width="420">
+</p>
 
 
 <p><img src="Misc/ShredderTools.jpg" width="700"></p>
