@@ -7,11 +7,8 @@
   - Periodic full backups (about once a month).
 
 ## Proof of execution
-  - Recent backup history (multiple restore points).
-  - Latest backup completed successfully (100%).
-
-## Screenshots
   <img src="Misc/BackupComplete.png" width="600">
+   - Latest completed backup.
   <img src="Misc/MonthlyBackups.png" width="600">  
-
+  - Recent backup history (multiple restore points).
 
