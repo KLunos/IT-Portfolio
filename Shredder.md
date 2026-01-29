@@ -32,7 +32,7 @@
 <p><img src="Misc/StuckCards.jpg" width="500"></p>
 
 
-<p><img src="PATH/TO/PIC3.jpg" width="700"></p>
+<p><img src="Misc/ShredderTools.jpg" width="700"></p>
 
 
 <p><img src="PATH/TO/PIC4.jpg" width="500"></p>
