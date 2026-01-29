@@ -62,6 +62,6 @@ This visually documents the physical layout and logical segmentation of my home 
 # Side Projects
   - Misc troubleshooting / random IT activities / side quests.
 
-## [Shredder](shredder.md)
+## [Shredder](Shredder.md)
   - Broken shredder ticket
     
