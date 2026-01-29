@@ -35,5 +35,5 @@
 <p><img src="Misc/ShredderTools.jpg" width="700"></p>
 
 
-<p><img src="PATH/TO/PIC4.jpg" width="500"></p>
+<p><img src="Misc/Shredder-after.jpg" width="500"></p>
 
