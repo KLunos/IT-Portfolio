@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="PATH/Before.jpg" width="420">
+  <img src="Misc/ShredderTools.jpg" width="420">
   <img src="Misc/Shredder-after.jpg"  width="420">
 </p>
 
