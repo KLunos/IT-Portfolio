@@ -12,6 +12,6 @@
 
 ## Screenshots
   <img src="Misc/BackupComplete.png" width="600">
-  <img src="Misc/Monthly-backups.png" width="600">  
+  <img src="Misc/MonthlyBackups.png" width="600">  
 
 
