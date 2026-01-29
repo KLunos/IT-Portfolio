@@ -31,9 +31,8 @@
   <img src="PATH/Cards.jpg"  width="420">
 </p>
 
-
-<p><img src="Misc/ShredderTools.jpg" width="700"></p>
-
-
-<p><img src="Misc/Shredder-after.jpg" width="500"></p>
+<p align="center">
+  <img src="PATH/Before.jpg" width="420">
+  <img src="PATH/Cards.jpg"  width="420">
+</p>
 
