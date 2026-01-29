@@ -29,7 +29,7 @@
 <p><img src="Misc/Shredder-before.jpg" width="500"></p>
 
 
-<p><img src="PATH/TO/PIC2.jpg" width="500"></p>
+<p><img src="Misc/StuckCards.jpg" width="500"></p>
 
 
 <p><img src="PATH/TO/PIC3.jpg" width="700"></p>
