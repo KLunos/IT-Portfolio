@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="Misc/ShredderTools.jpg" width="420" height="700">
-  <img src="Misc/Shredder-after.jpg"  width="420" height="300">
+  <img src="Misc/ShredderTools.jpg" width="420" height="600">
+  <img src="Misc/Shredder-after.jpg"  width="420" height="500">
 </p>
 
