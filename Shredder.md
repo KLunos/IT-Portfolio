@@ -27,8 +27,8 @@
 ## Photos
 
 <p align="center">
-  <img src="Misc/Shredder-before.jpg" width="420" height="400">
-  <img src="Misc/StuckCards.jpg"  width="420" height="400">
+  <img src="Misc/Shredder-before.jpg" width="420" height="440">
+  <img src="Misc/StuckCards.jpg"  width="420" height="360">
 </p>
 
 <p align="center">
