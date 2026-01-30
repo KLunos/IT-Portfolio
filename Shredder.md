@@ -29,10 +29,10 @@
   
 | | |
 |:--:|:--:|
-| <img src="Misc/Shredder-before.jpg" width="420"> | <img src="Misc/StuckCards.jpg" width="420"> |
+| <img src="Misc/Shredder-before.jpg" width="360"> | <img src="Misc/StuckCards.jpg" width="360"> |
 | *(Left) The teeth before cleaning.* | *(Right) The discovery.* |
 
 | | |
 |:--:|:--:|
-| <img src="Misc/ShredderTools.jpg" width="420"> | <img src="Misc/Shredder-after.jpg" width="420"> |
+| <img src="Misc/ShredderTools.jpg" width="360"> | <img src="Misc/Shredder-after.jpg" width="360"> |
 | *(Left) Tools used.* | *(Right) The teeth after cleaning.* |
