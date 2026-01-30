@@ -27,14 +27,12 @@
 ## Photos
   - Some before and after.
   
-<p align="center">
-  <img src="Misc/Shredder-before.jpg" width="420" height="440">
-  <img src="Misc/StuckCards.jpg"  width="420" height="360">
-</p>
-  - (left) The teeth before cleaning. (right) The discovery.
-<p align="center">
-  <img src="Misc/ShredderTools.jpg" width="420" height="600">
-  <img src="Misc/Shredder-after.jpg"  width="420" height="500">
-</p>
-  - (left) Tools used. (right) The teeth after cleaning.
+| | |
+|:--:|:--:|
+| <img src="Misc/Shredder-before.jpg" width="420"> | <img src="Misc/StuckCards.jpg" width="420"> |
+| *(Left) The teeth before cleaning.* | *(Right) The discovery.* |
 
+| | |
+|:--:|:--:|
+| <img src="Misc/ShredderTools.jpg" width="420"> | <img src="Misc/Shredder-after.jpg" width="420"> |
+| *(Left) Tools used.* | *(Right) The teeth after cleaning.* |
