@@ -37,7 +37,7 @@ This visually documents the physical layout and logical segmentation of my home 
 ### Logical Topology
   - The digital map of my home network, with a detailed version of my home lab in the middle.
 <a href="./Misc/LogicalTopology.png">
-  <img src="./Misc/LogicalTopology.png" width="760" />
+  <img src="./Misc/LogicalTopology.png" width="730" />
 </a>
 
 *This shows the logical structure of my home network, highlighting traffic flow through my virtual lab. It documents DHCP scopes and VLAN segmentation via pfSense, and multiple lab servers all monitored by Security Onion. This demonstrates my ability to design, secure, and document enterprise style network environments.*
