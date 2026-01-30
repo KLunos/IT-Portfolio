@@ -29,7 +29,7 @@ This visually documents the physical layout and logical segmentation of my home 
 ### Physical Topology
   - My home network. The device this virtual home lab runs on is the "Lab Host" laptop in the middle.
 <a href="./Misc/PhysicalTopology.png">
-  <img src="./Misc/PhysicalTopology.png" width="620" />
+  <img src="./Misc/PhysicalTopology.png" width="580" />
 </a>
 
 *This displays the physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
